@@ -1,0 +1,14 @@
+Integrated Project Management Platform (IPMP)
+
+1.Introduction
+-----------------------------------------------------------------
+The IPMP is the software system to gathering, store, handling, report during the integrated project management processes.
+
+The IPMP contains with the modules listed below:
+1) iPortal Front-end Subsystem
+2) Moduling Subsystem
+3) Security and Authentication Subsystem
+4) Business Delivery Subsystem
+5) System Management Subsystem
+6) API and SDK
+7) Core Business Subsystem
